@@ -1,0 +1,22 @@
+.content {
+    /* text-align: center; */
+    margin: auto;
+    width: 900px;
+    align-items: center;
+}
+.buttons {
+    display: flex;
+}
+button {
+    padding: 10px;   
+}
+.blue {
+    border: 2px solid yellow;
+    color: yellow;
+    background-color: dodgerblue;
+}
+.red {
+    border: 2px solid slateblue;
+    color: slateblue;
+    background-color: red;
+}
